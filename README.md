@@ -1,0 +1,1 @@
+Projeyi indirdikten sonra npm install diyerek node_modules oluşturulmasını sağlıyabilirsiniz akabinde react-native run-android diyerek çalıştırabilirsiniz. Eğer emulator otomatik gözükmez ise android studio ile açıp çalıştırabilirsiniz 
